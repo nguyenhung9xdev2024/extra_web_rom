@@ -1,5 +1,5 @@
 {
-    "model": "SM-G965F",
+    "models": ["SM-G965F", "SM-G965N"],
     "name": "Galaxy S9+",
     "codename": "star2lte",
     "releaseDate": "2018-03-16",
