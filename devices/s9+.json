@@ -1,0 +1,19 @@
+{
+    "model": "SM-G965F",
+    "name": "Galaxy S9+",
+    "codename": "star2lte",
+    "releaseDate": "2018-03-16",
+    "image": "https://skypantech.vn/wp-content/uploads/2020/01/samsung-galaxy-s9-plus-xanh-lam-600x600.png",
+    "specs": {
+        "processor": "Exynos 9810",
+        "ram": "6GB",
+        "storage": "64GB/128GB/256GB",
+        "screen": "6.2\" Super AMOLED",
+        "battery": "3500mAh",
+        "camera": {
+            "rear": "12MP + 12MP Dual Camera",
+            "front": "8MP"
+        }
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

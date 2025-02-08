@@ -1,0 +1,25 @@
+{
+    "model": "SM-N950F",
+    "name": "Galaxy Note 8",
+    "codename": "greatlte",
+    "releaseDate": "2017-09-15",
+    "image": "https://wefix.co.za/cdn/shop/products/Galaxy-Note-8-Black.png?v=1667479205",
+    "specs": {
+        "processor": "Exynos 8895",
+        "ram": "6GB",
+        "storage": "64GB/128GB/256GB",
+        "screen": "6.3\" Super AMOLED Infinity Display",
+        "battery": "3300mAh",
+        "camera": {
+            "rear": "12MP Dual Camera",
+            "front": "8MP"
+        },
+        "specialFeatures": [
+            "S Pen",
+            "Dual Rear Camera",
+            "IP68 Water and Dust Resistance",
+            "Infinity Display"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

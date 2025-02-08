@@ -1,0 +1,24 @@
+{
+    "model": "SM-G950F",
+    "name": "Galaxy S8",
+    "codename": "dreamlte",
+    "releaseDate": "2017-04-21",
+    "image": "https://clipart.info/images/ccovers/1503496385Galaxy-S8-Mobile-Png.png",
+    "specs": {
+        "processor": "Exynos 8895",
+        "ram": "4GB",
+        "storage": "64GB",
+        "screen": "5.8\" Super AMOLED Infinity Display",
+        "battery": "3000mAh",
+        "camera": {
+            "rear": "12MP Dual Pixel",
+            "front": "8MP"
+        },
+        "specialFeatures": [
+            "Infinity Display",
+            "IP68 Water and Dust Resistance",
+            "Bixby Voice Assistant"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

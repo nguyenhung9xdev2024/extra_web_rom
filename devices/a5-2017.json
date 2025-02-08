@@ -1,0 +1,15 @@
+{
+    "model": "SM-A520F",
+    "name": "Galaxy A5 2017",
+    "codename": "a5y17",
+    "releaseDate": "2017-01-01",
+    "image": "https://images.samsung.com/is/image/samsung/latin-en-galaxy-a5-2017-a520f-sm-a520fzkjtpa-frontblack-thumb-70500841",
+    "specs": {
+        "processor": "Exynos 7880",
+        "ram": "3GB",
+        "storage": "32GB",
+        "screen": "5.2\" Super AMOLED",
+        "battery": "3000mAh"
+    },
+    "supportedROMs": ["BestMoonOS"]
+}

@@ -1,0 +1,26 @@
+{
+    "model": "SM-F700F",
+    "name": "Galaxy Z Flip",
+    "codename": "bloom",
+    "releaseDate": "2020-02-14",
+    "image": "https://s7d1.scene7.com/is/image/dmqualcommprod/samsung-galaxy-z-flip-5g-2?$QC_Responsive$&fmt=png-alpha",
+    "specs": {
+        "processor": "Snapdragon 855+",
+        "ram": "8GB",
+        "storage": "128GB/256GB",
+        "mainScreen": "6.7\" Dynamic AMOLED Foldable",
+        "coverScreen": "1.1\" Super AMOLED",
+        "battery": "3300mAh",
+        "camera": {
+            "rear": "12MP Wide + 12MP Ultra Wide",
+            "front": "10MP"
+        },
+        "specialFeatures": [
+            "Foldable Display",
+            "Ultra Thin Glass",
+            "Flex Mode",
+            "Wireless Charging"
+        ]
+    },
+    "supportedROMs": ["OneUI", "CustomOS", "LineageOS"]
+}

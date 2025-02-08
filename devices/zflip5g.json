@@ -1,0 +1,26 @@
+{
+    "model": "SM-F707B",
+    "name": "Galaxy Z Flip 5G",
+    "codename": "bloom5g",
+    "releaseDate": "2020-08-05",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmakroXp5FBU2CN9rSKO__nEcSCMjdLwX_-g&s",
+    "specs": {
+        "processor": "Snapdragon 865+",
+        "ram": "8GB",
+        "storage": "256GB",
+        "mainScreen": "6.7\" Dynamic AMOLED Foldable",
+        "coverScreen": "1.1\" Super AMOLED",
+        "battery": "3300mAh",
+        "camera": {
+            "rear": "12MP Wide + 12MP Ultra Wide",
+            "front": "10MP"
+        },
+        "specialFeatures": [
+            "5G Support",
+            "Foldable Display",
+            "Ultra Thin Glass",
+            "Flex Mode"
+        ]
+    },
+    "supportedROMs": ["OneUI", "CustomOS", "LineageOS"]
+}

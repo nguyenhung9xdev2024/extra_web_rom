@@ -1,0 +1,24 @@
+{
+    "model": "SM-G955F",
+    "name": "Galaxy S8+",
+    "codename": "dream2lte",
+    "releaseDate": "2017-04-21",
+    "image": "https://mysimplephones.com/wp-content/uploads/2022/04/Samsung_Galaxy_S8_plus_600x600.png",
+    "specs": {
+        "processor": "Exynos 8895",
+        "ram": "4GB/6GB",
+        "storage": "64GB/128GB",
+        "screen": "6.2\" Super AMOLED Infinity Display",
+        "battery": "3500mAh",
+        "camera": {
+            "rear": "12MP Dual Pixel",
+            "front": "8MP"
+        },
+        "specialFeatures": [
+            "Infinity Display",
+            "IP68 Water and Dust Resistance",
+            "Bixby Voice Assistant"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

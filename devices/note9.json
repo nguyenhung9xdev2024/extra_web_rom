@@ -1,0 +1,23 @@
+{
+    "models": ["SM-N960F", "SM-N960N"],
+    "name": "Galaxy Note 9",
+    "codename": "crownlte",
+    "releaseDate": "2018-08-24",
+    "image": "https://mysimplephones.com/wp-content/uploads/2022/04/Samsung_Galaxy_Note-9_600x600.png",
+    "specs": {
+        "processor": "Exynos 9810",
+        "ram": "6GB/8GB",
+        "storage": "128GB/512GB",
+        "screen": "6.4\" Super AMOLED",
+        "battery": "4000mAh",
+        "camera": {
+            "rear": "12MP Dual Camera",
+            "front": "8MP"
+        },
+        "specialFeatures": [
+            "S Pen with Bluetooth",
+            "Water and Dust Resistance (IP68)"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

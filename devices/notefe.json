@@ -1,0 +1,24 @@
+{
+    "model": "SM-N935F",
+    "name": "Galaxy Note FE",
+    "codename": "greatlte",
+    "releaseDate": "2017-07-07",
+    "image": "https://samsony.net/img/mobiles/SM-N935S_7042724.png",
+    "specs": {
+        "processor": "Exynos 8890",
+        "ram": "4GB",
+        "storage": "64GB",
+        "screen": "5.7\" Super AMOLED",
+        "battery": "3200mAh",
+        "camera": {
+            "rear": "12MP",
+            "front": "7MP"
+        },
+        "specialFeatures": [
+            "S Pen",
+            "Improved Battery Safety",
+            "Recycled Note 7 Components"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI", "LineageOS"]
+}

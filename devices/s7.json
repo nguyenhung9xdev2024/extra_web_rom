@@ -1,0 +1,19 @@
+{
+    "model": "SM-G930F",
+    "name": "Galaxy S7",
+    "codename": "herolte",
+    "releaseDate": "2016-03-11",
+    "image": "https://thanhdatmobile.vn/wp-content/uploads/2021/02/s7a.png",
+    "specs": {
+        "processor": "Exynos 8890",
+        "ram": "4GB",
+        "storage": "32GB/64GB",
+        "screen": "5.1\" Super AMOLED",
+        "battery": "3000mAh",
+        "camera": {
+            "rear": "12MP Dual Pixel",
+            "front": "5MP"
+        }
+    },
+    "supportedROMs": ["TouchWiz", "Samsung Experience", "LineageOS"]
+}

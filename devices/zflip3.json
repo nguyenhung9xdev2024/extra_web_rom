@@ -1,0 +1,27 @@
+{
+    "model": "SM-F711B",
+    "name": "Galaxy Z Flip 3",
+    "codename": "bloom3",
+    "releaseDate": "2021-08-27",
+    "image": "https://www.mistermobile.com.sg/wp-content/uploads/2024/09/Samsung-Galaxy-Flip-3-Gray-1.png",
+    "specs": {
+        "processor": "Snapdragon 888",
+        "ram": "8GB",
+        "storage": "128GB/256GB",
+        "mainScreen": "6.7\" Dynamic AMOLED 2X Foldable",
+        "coverScreen": "1.9\" Super AMOLED",
+        "battery": "3300mAh",
+        "camera": {
+            "rear": "12MP Wide + 12MP Ultra Wide",
+            "front": "10MP"
+        },
+        "specialFeatures": [
+            "Improved Foldable Display",
+            "IPX8 Water Resistance",
+            "Larger Cover Display",
+            "Flex Mode",
+            "Gorilla Glass Victus"
+        ]
+    },
+    "supportedROMs": ["OneUI", "CustomOS", "LineageOS"]
+}
