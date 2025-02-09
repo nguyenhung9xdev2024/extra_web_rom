@@ -1,0 +1,18 @@
+{
+    "id": "a5y17-bestmoon",
+    "model": "SM-A520F",
+    "name": "BestMoonOS",
+    "type": "Custom",
+    "version": "1.0",
+    "androidVersion": "11.0",
+    "size": "1.5GB",
+    "date": "2023-10-15",
+    "isFree": true,
+    "downloadLink": "#",
+    "description": "ROM tùy chỉnh dành cho Galaxy A5 2017 với giao diện mới và hiệu năng tối ưu",
+    "image": "https://romphonefarm.com/logo.png",
+    "readmeLink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/a5y17/README-bestmoon.md", 
+    "downloads": 5678,
+    "rating": 4.5
+  }
+  
