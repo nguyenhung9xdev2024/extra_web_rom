@@ -1,0 +1,18 @@
+{
+    "devices": [
+      "a5-2017.json",
+      "a7-2017.json", 
+      "note8.json",
+      "note9.json",
+      "notefe.json",
+      "s7.json",
+      "s8+.json", 
+      "s8.json",
+      "s9+.json",
+      "s9.json",
+      "zflip.json",
+      "zflip3.json",
+      "zflip35g.json",
+      "zflip5g.json"
+    ]
+  }
