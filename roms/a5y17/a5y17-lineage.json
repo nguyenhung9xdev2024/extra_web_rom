@@ -1,0 +1,20 @@
+{
+    "id": "a5y17-lineage",
+    "models": ["SM-A520F", "SM-A520F/DS"],
+    "name": "LineageOS",
+    "type": "custom",
+    "version": "18.1",
+    "androidVersion": "11.0",
+    "size": "1.2GB",
+    "date": "2024-09-15",
+    "isFree": true,
+    "downloadLink": "https://download.lineageos.org/a5y17",
+    "description": "ROM LineageOS chính thức cho Galaxy A5 2017",
+    "readmelink": "#",
+    "image": "https://lineageos.org/logo.png",
+    "downloads": 12345,
+    "rating": 4.8,
+    "downloadCount": 0,
+    "downloadType": "external",
+    "downloadAccess": "free"
+  }

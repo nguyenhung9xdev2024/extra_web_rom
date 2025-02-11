@@ -1,6 +1,6 @@
 {
   "id": "a5y17-bestmoon",
-  "model": "SM-A520F",
+  "models": ["SM-A520F", "SM-A520F/DS"],
   "name": "BestMoonOS",
   "type": "custom",
   "version": "5.0",
