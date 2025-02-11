@@ -1,5 +1,5 @@
 {
-    "model": "SM-A520F",
+    "models": ["SM-A520F", "SM-A520F/DS"],
     "name": "Galaxy A5 2017",
     "codename": "a5y17",
     "releaseDate": "2017-01-01",

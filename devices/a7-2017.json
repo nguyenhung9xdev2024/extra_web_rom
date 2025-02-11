@@ -1,13 +1,13 @@
 {
-    "model": "SM-A720F",
-    "name": "Galaxy A7 2017",
-    "codename": "a7y17", 
+    "models": ["SM-A720F", "SM-A720F/DS"],
+    "name": "Galaxy A7 2017", 
+    "codename": "a7y17",
     "releaseDate": "2017-01-01",
-    "image": "https://images.samsung.com/is/image/samsung/sa_en-galaxy-a7-2017-a720f-sm-a720fzddksa-000000001-front-gold?$684_547_PNG$",
+    "image": "https://images.samsung.com/is/image/samsung/latin-en-galaxy-a7-2017-a720f-sm-a720fzkjtpa-frontblack-thumb-70500841",
     "specs": {
         "processor": "Exynos 7880",
         "ram": "3GB",
-        "storage": "32GB/64GB",
+        "storage": "32GB",
         "screen": "5.7\" Super AMOLED",
         "battery": "3600mAh"
     },
