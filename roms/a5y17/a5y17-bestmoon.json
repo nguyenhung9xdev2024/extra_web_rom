@@ -6,7 +6,7 @@
   "version": "5.0",
   "androidVersion": "11.0",
   "size": "1.5GB",
-  "date": "2024-10-24",
+  "date": "2024-02-11",
   "isFree": false,
   "downloadLink": "/uploads/roms/a5y17-bestmoon.zip",
   "description": "ROM tùy chỉnh cho Galaxy A5 2017 với giao diện mới và hiệu năng tối ưu",
@@ -16,5 +16,6 @@
   "rating": 4.5,
   "downloadCount": 0,
   "downloadType": "local",
-  "downloadAccess": "premium"
+  "downloadAccess": "premium",
+  "isRooted": false
 }

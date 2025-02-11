@@ -6,7 +6,7 @@
     "version": "18.1",
     "androidVersion": "11.0",
     "size": "1.2GB",
-    "date": "2024-09-15",
+    "date": "2024-02-10",
     "isFree": true,
     "downloadLink": "https://download.lineageos.org/a5y17",
     "description": "ROM LineageOS chính thức cho Galaxy A5 2017",
@@ -16,5 +16,6 @@
     "rating": 4.8,
     "downloadCount": 0,
     "downloadType": "external",
-    "downloadAccess": "free"
+    "downloadAccess": "free",
+    "isRooted": true
   }
