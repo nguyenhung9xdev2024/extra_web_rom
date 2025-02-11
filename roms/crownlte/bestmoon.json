@@ -1,6 +1,6 @@
 {
   "id": "crownlte-bestmoon",
-  "models": ["SM-N960F"],
+  "model": "SM-N960F",
   "name": "BestMoonOS",
   "type": "custom",
   "version": "5.0",
