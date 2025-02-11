@@ -1,0 +1,20 @@
+{
+    "id": "crownlte-bestmoon-n960n",
+    "models": ["SM-N960N"],
+    "name": "BestMoonOS",
+    "type": "custom",
+    "version": "5.0",
+    "androidVersion": "11.0",
+    "size": "1.5GB",
+    "date": "2024-10-22",
+    "isFree": false,
+    "downloadLink": "/uploads/roms/a7y17-bestmoon.zip",
+    "description": "ROM tùy chỉnh cho Galaxy A7 2017 với giao diện mới và hiệu năng tối ưu",
+    "readmelink": "#",
+    "image": "https://romphonefarm.com/logo.png",
+    "downloads": 5678,
+    "rating": 4.5,
+    "downloadCount": 0,
+    "downloadType": "local",
+    "downloadAccess": "premium"
+  }
