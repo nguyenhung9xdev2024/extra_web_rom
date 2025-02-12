@@ -40,6 +40,8 @@ Hướng Dẫn Cài Đặt:
 - Mở app magisk lên sẽ thấy giao diện như dưới và làm theo các hình dưới
 ![Mô tả hình ảnh](https://i.imgur.com/6MFpSVy.png)
 
+![Mô tả hình ảnh](https://i.imgur.com/edxI6au.png)
+
 ![Mô tả hình ảnh](https://i.imgur.com/ZsWPj8f.png)
 
 - Như vậy là đã root hoàn tất
@@ -52,8 +54,6 @@ Yêu Cầu:
 - Bootloader đã mở khóa
 - Phiên bản Android 12 trở lên
 
-![Kiểm tra thiết bị](https://i.imgur.com/device.jpg)
-
 ### Firmware yêu cầu
 - Baseband mới nhất
 - Bootloader mới nhất
@@ -63,5 +63,3 @@ Yêu Cầu:
 - Samsung USB Driver
 - Odin v3.14.4
 - WinRAR hoặc 7-Zip
-
-![Công cụ cài đặt](https://i.imgur.com/required.jpg)
