@@ -1,6 +1,6 @@
 {
     "id": "beyondlte-oneui-noroot",
-    "models": ["SM-G975F","SM-G975F"],
+    "models": ["SM-G975F","SM-G975N"],
     "name": "OneUI 4.1",
     "type": "stock",
     "version": "4.1",
