@@ -1,0 +1,15 @@
+{
+    "models": ["SM-G975F", "SM-G975N"],
+    "name": "Galaxy S10+",
+    "codename": "beyondlte",
+    "releaseDate": "2019-03-08",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s10-plus-new.jpg",
+    "specs": {
+        "processor": "Exynos 9820",
+        "ram": "8GB/12GB",
+        "storage": "128GB/512GB/1TB",
+        "screen": "6.4\" Dynamic AMOLED",
+        "battery": "4100mAh"
+    },
+    "supportedROMs": ["BestMoonOS", "OneUI"]
+ }
