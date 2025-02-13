@@ -1,7 +1,7 @@
 {
     "models": ["SM-N975F", "SM-N975N"],
-    "name": "Galaxy Note 10 Plus",
-    "codename": "beyondlte",
+    "name": "Galaxy Note 10 +",
+    "codename": "davinci",
     "releaseDate": "2019-08-23",
     "image": "https://ngocthanhmobile.com/uploads/2019/10/avt-note-10-black.png",
     "specs": {
