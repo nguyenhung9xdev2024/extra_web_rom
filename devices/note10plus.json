@@ -1,0 +1,15 @@
+{
+    "models": ["SM-N975F", "SM-N975N"],
+    "name": "Galaxy Note 10 Plus",
+    "codename": "beyondlte",
+    "releaseDate": "2019-08-23",
+    "image": "https://ngocthanhmobile.com/uploads/2019/10/avt-note-10-black.png",
+    "specs": {
+        "processor": "Exynos 9820",
+        "ram": "8GB/12GB",
+        "storage": "128GB/512GB/1TB",
+        "screen": "6.4\" Dynamic AMOLED",
+        "battery": "4100mAh"
+    },
+    "supportedROMs": ["OneUI"]
+}
