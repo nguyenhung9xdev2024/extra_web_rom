@@ -1,0 +1,19 @@
+{
+  "id": "crownlte-oneui-n",
+  "models": ["SM-N960N"],
+  "name": "OneUI 2.5",
+  "type": "stock",
+  "version": "2.5",
+  "androidVersion": "10.0",
+  "size": "4.5GB",
+  "date": "2025-02-15",
+  "isFree": false,
+  "downloadLink": "/roms/download/crownlte-oneui-n",
+  "description": "Official OneUI 2.5 ROM for Galaxy note 9 mã N",
+  "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/crownlte/README-crownlte-oneui-n.md",
+  "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+  "rating": 4.6,
+  "downloadType": "local",
+  "downloadAccess": "premium",
+  "isRooted": true
+}

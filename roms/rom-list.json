@@ -5,6 +5,8 @@
       "beyondlte/beyondlte-oneui-f.json",
       "beyondlte/beyondlte-oneui-n.json",
       "beyondlte/beyondlte-oneui.json",
-      "davinci/davinci-oneui-f.json"
+      "davinci/davinci-oneui-f.json",
+      "crownlte/crownlte-oneui-n.json",
+      "crownlte/crownlte-oneui.json"
     ]
   }
