@@ -23,7 +23,7 @@ Hướng Dẫn Cài Đặt:
 - Wipe system, data, vendor, cache and dalvik cache
 
 ### Bước 5: Install ROM
-- Install X-ROM S10e Port ROM.
+- Install Port ROM.
 
 ### Lưu Ý Quan Trọng: Nếu gặp lỗi bootloop, hãy wipe data và thử cài đặt lại
 
