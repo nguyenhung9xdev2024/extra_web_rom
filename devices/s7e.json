@@ -1,0 +1,19 @@
+{
+    "models": ["SM-G935F", "SM-G935K/S/L"],
+    "name": "Galaxy S7 Edge",
+    "codename": "herolte",
+    "releaseDate": "2016-03-11",
+    "image": "https://thanhdatmobile.vn/wp-content/uploads/2021/02/s7a.png",
+    "specs": {
+        "processor": "Exynos 8890",
+        "ram": "4GB",
+        "storage": "32GB/64GB",
+        "screen": "5.5\" Super AMOLED",
+        "battery": "3600mAh",
+        "camera": {
+            "rear": "12MP Dual Pixel",
+            "front": "5MP"
+        }
+    },
+    "supportedROMs": ["TouchWiz", "Samsung Experience", "LineageOS"]
+}
