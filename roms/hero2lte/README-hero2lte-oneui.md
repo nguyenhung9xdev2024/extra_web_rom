@@ -36,9 +36,9 @@ Yêu Cầu:
 - Bootloader mới nhất
 
 ### Công cụ cần thiết
-- TWRP mod tại [đây](https://github.com/ananjaser1211/android_device_samsung_hero/releases/tag/3.7.0_9-hero2lte-20231231)
-- Bootloader đã mở khóa
+- TWRP mod tại [tại đây](https://github.com/ananjaser1211/android_device_samsung_hero/releases/tag/3.7.0_9-hero2lte-20231231)
 - Create Vendor zip [tại đây](https://drive.google.com/drive/folders/1VdET4yjVvHdWxlDIXobgxaEyWoz_WJju)
+- Bootloader đã mở khóa
 - Windows 10/11
 - Samsung USB Driver
 - Odin v3.14.4
