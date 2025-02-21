@@ -1,0 +1,24 @@
+{
+    "models": ["SM-J600F", "SM-J600G"],
+    "name": "Samsung Galaxy J6",
+    "codename": "j6lte",
+    "releaseDate": "2018-05-01",
+    "image": "https://images.samsung.com/is/image/samsung/vn-galaxy-j6-j600-sm-j600gzpgxxv-frontviolet-102517550?$624_624_PNG$",
+    "specs": {
+        "processor": "Exynos 7870",
+        "ram": "3GB/4GB",
+        "storage": "32GB/64GB",
+        "screen": "5.6\" Super AMOLED",
+        "battery": "3000mAh",
+        "camera": {
+            "rear": "13MP Single Camera",
+            "front": "8MP"
+        },
+        "specialFeatures": [
+            "Infinity Display",
+            "Face Unlock",
+            "Samsung Knox Security"
+        ]
+    },
+    "supportedROMs": ["Samsung Experience", "OneUI"]
+}
