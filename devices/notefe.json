@@ -1,7 +1,7 @@
 {
     "models": ["SM-N935F", "SM-N935K/S/L"],
     "name": "Galaxy Note FE",
-    "codename": "greatlte",
+    "codename": "gracerlte",
     "releaseDate": "2017-07-07",
     "image": "https://samsony.net/img/mobiles/SM-N935S_7042724.png",
     "specs": {
