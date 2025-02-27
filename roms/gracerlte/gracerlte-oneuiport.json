@@ -1,0 +1,19 @@
+{
+    "id": "gracerlte-oneuiport",
+    "models": ["SM-N935F","SM-N935K/S/L"],
+    "name": "OneUI 4.1",
+    "type": "stock",
+    "version": "4.1",
+    "androidVersion": "12.0",
+    "size": "2.0GB",
+    "date": "2025-02-27",
+    "isFree": false,
+    "downloadLink": "/roms/download/gracerlte-oneuiport",
+    "description": "Official OneUI 4.1 ROM for Galaxy S10+ Exynos (SM-G975F)",
+    "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/beyondlte/README-gracerlte-oneuiport.md",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+    "rating": 4.6,
+    "downloadType": "local",
+    "downloadAccess": "premium",
+    "isRooted": false
+  }
