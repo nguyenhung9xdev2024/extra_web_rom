@@ -2,7 +2,7 @@
     "id": "hero2lte-oneui",
     "models": ["SM-G935F", "SM-G935K/S/L"],
     "name": "OneUI 4.1",
-    "type": "stock",
+    "type": "port",
     "version": "4.1",
     "androidVersion": "12.0",
     "size": "2.0GB",
