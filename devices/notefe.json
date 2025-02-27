@@ -1,5 +1,5 @@
 {
-    "model": "SM-N935F",
+    "models": ["SM-N935F", "SM-N935K/S/L"],
     "name": "Galaxy Note FE",
     "codename": "greatlte",
     "releaseDate": "2017-07-07",
