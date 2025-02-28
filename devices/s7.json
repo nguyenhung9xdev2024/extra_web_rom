@@ -1,5 +1,5 @@
 {
-    "model": "SM-G930F",
+    "models": ["SM-G930F", "SM-G930K/S/L"],
     "name": "Galaxy S7",
     "codename": "herolte",
     "releaseDate": "2016-03-11",
