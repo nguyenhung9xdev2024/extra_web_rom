@@ -1,0 +1,19 @@
+{
+    "id": "star2lte-oneuiport",
+    "models": ["SM-G965F","SM-G965N"],
+    "name": "OneUI 1.0",
+    "type": "port",
+    "version": "1.0",
+    "androidVersion": "9.0",
+    "size": "3.0GB",
+    "date": "2025-03-06",
+    "isFree": true,
+    "downloadLink": "/roms/download/star2lte-oneuiport",
+    "description": "ROM PORT SAMSUNG S9 PLUS ANDROID 9.0",
+    "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/star2lte/README-star2lte-oneuiport.md",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+    "rating": 4.6,
+    "downloadType": "local",
+    "downloadAccess": "free",
+    "isRooted": false
+  }
