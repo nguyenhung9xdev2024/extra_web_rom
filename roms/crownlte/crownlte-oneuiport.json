@@ -2,7 +2,7 @@
     "id": "crownlte-oneuiport",
     "models": ["SM-N960F","SM-N960N"],
     "name": "OneUI 1.0",
-    "type": "stock",
+    "type": "port",
     "version": "1.0",
     "androidVersion": "9.0",
     "size": "2.52B",
