@@ -1,0 +1,19 @@
+{
+  "id": "beyondlte-oneuiport",
+  "models": ["SM-G975F","SM-G975N"],
+  "name": "OneUI 5.1",
+  "type": "port",
+  "version": "5.1",
+  "androidVersion": "13.0",
+  "size": "2.5GB",
+  "date": "2025-03-07",
+  "isFree": false,
+  "downloadLink": "/roms/download/beyondlte-oneuiport",
+  "description": "Official OneUI 5.1 ROM for Galaxy S10+ Exynos (SM-G975F)",
+  "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/beyondlte/README-beyondlte-oneuiport.md",
+  "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+  "rating": 4.6,
+  "downloadType": "local",
+  "downloadAccess": "premium",
+  "isRooted": true
+}
