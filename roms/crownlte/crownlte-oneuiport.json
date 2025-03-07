@@ -1,0 +1,19 @@
+{
+    "id": "crownlte-oneuiport",
+    "models": ["SM-N960F","SM-N960N"],
+    "name": "OneUI 1.0",
+    "type": "stock",
+    "version": "1.0",
+    "androidVersion": "9.0",
+    "size": "2.52B",
+    "date": "2025-03-07",
+    "isFree": true,
+    "downloadLink": "/roms/download/crownlte-oneuiport",
+    "description": "ROM PORT SAMSUNG GALAXY NOTE 9 ANDROID 9.0",
+    "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/crownlte/README-crownlte-oneuiport.md",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+    "rating": 4.6,
+    "downloadType": "local",
+    "downloadAccess": "free",
+    "isRooted": false
+  }
