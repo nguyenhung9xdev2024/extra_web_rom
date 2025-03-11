@@ -1,0 +1,19 @@
+{
+    "id": "j7y17lte-oneuiport",
+    "models": ["SM-J730F", "SM-J730G", "SM-J730GM"],
+    "name": "OneUI 1.1",
+    "type": "port",
+    "version": "1.1",
+    "androidVersion": "9.0",
+    "size": "1.0GB",
+    "date": "2025-03-11",
+    "isFree": true,
+    "downloadLink": "/roms/download/j7y17lte-oneuiport",
+    "description": "ROM PORT SAMSUNG GALAXY J7 PRO",
+    "readmelink": "https://raw.githubusercontent.com/nguyenhung9xdev2024/extra_web_rom/main/roms/j7y17lte/README-j7y17lte-oneuiport.md",
+    "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/11/One-UI-Review.png",
+    "rating": 4.5,
+    "downloadType": "local",
+    "downloadAccess": "free",
+    "isRooted": false
+} 
