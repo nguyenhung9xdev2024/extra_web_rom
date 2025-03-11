@@ -2,7 +2,8 @@
     "devices": [
       "a5-2017.json",
       "a7-2017.json",
-      "j6.json", 
+      "j6.json",
+      "j7pro.json",
       "note8.json",
       "note9.json",
       "notefe.json",

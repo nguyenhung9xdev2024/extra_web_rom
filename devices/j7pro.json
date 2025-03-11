@@ -1,0 +1,19 @@
+{
+    "models": ["SM-J730F", "SM-J730G", "SM-J730GM"],
+    "name": "Galaxy J7 Pro",
+    "codename": "j7y17lte",
+    "releaseDate": "2017-06",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-j7-pro-1.jpg",
+    "specs": {
+        "processor": "Exynos 7870 Octa",
+        "ram": "3GB",
+        "storage": "32GB/64GB",
+        "screen": "5.5\" Super AMOLED",
+        "battery": "3600mAh",
+        "camera": {
+            "rear": "13MP, f/1.7",
+            "front": "13MP, f/1.9"
+        }
+    },
+    "supportedROMs": ["Samsung Experience", "LineageOS"]
+} 
