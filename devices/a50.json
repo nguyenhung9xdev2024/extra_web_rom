@@ -1,0 +1,19 @@
+{
+    "models": ["SM-A505F", "SM-A505G", "SM-A505GT", "SM-A505FN"],
+    "name": "Galaxy A50",
+    "codename": "a50",
+    "releaseDate": "2019-02",
+    "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_28973/samsung-galaxy-_main_481_450.png.webp",
+    "specs": {
+        "processor": "Exynos 9610",
+        "ram": "4GB/6GB",
+        "storage": "64GB/128GB",
+        "screen": "6.4\" Super AMOLED",
+        "battery": "4000mAh",
+        "camera": {
+            "rear": "25MP (f/1.7) + 8MP (f/2.2) + 5MP (f/2.2)",
+            "front": "25MP (f/2.0)"
+        }
+    },
+    "supportedROMs": ["One UI", "LineageOS"]
+} 

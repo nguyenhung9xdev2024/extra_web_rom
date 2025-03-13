@@ -1,0 +1,19 @@
+{
+    "models": ["SM-A305F", "SM-A305G", "SM-A305GT", "SM-A305N"],
+    "name": "Galaxy A30",
+    "codename": "a30",
+    "releaseDate": "2019-02",
+    "image": "https://phucanhcdn.com/media/product/35895_samsung_galaxy_a_30_a305f_32gb__black__1_1.png",
+    "specs": {
+        "processor": "Exynos 7904",
+        "ram": "3GB/4GB",
+        "storage": "32GB/64GB",
+        "screen": "6.4\" Super AMOLED",
+        "battery": "4000mAh",
+        "camera": {
+            "rear": "16MP (f/1.7) + 5MP (f/2.2)",
+            "front": "16MP (f/2.0)"
+        }
+    },
+    "supportedROMs": ["One UI", "LineageOS"]
+} 

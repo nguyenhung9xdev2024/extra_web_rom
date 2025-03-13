@@ -1,6 +1,8 @@
 {
     "devices": [
+      "a30.json",
       "a5-2017.json",
+      "a50.json",
       "a7-2017.json",
       "j6.json",
       "j7pro.json",
