@@ -20,8 +20,7 @@ Hướng Dẫn Cài Đặt:
 - Install Port ROM.
 
 ### Bước 4: Flash RMM file patch
-- Flash RMM File patch.
-![File PATCH](https://androidfilehost.com/?w=files&flid=316962)
+- Flash RMM File patch. [tại đây](https://androidfilehost.com/?w=files&flid=316962)
 
 ### Bước 5: Reboot system
 - Format data rồi reboot system
