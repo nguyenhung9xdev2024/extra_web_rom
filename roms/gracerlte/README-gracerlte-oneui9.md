@@ -21,6 +21,7 @@ Hướng Dẫn Cài Đặt:
 
 ### Bước 4: Flash RMM file patch
 - Flash RMM File patch.
+![File PATCH](https://androidfilehost.com/?w=files&flid=316962)
 
 ### Bước 5: Reboot system
 - Format data rồi reboot system
