@@ -1,5 +1,5 @@
 {
-    "model": ["SM-F711B", "SM-F711N", "SM-F711U", "SM-F711U1", "SM-F711W"],
+    "models": ["SM-F711B", "SM-F711N", "SM-F711U", "SM-F711U1", "SM-F711W"],
     "name": "Galaxy Z Flip 3 5G",
     "codename": "q2q",
     "releaseDate": "2021-08-27",
