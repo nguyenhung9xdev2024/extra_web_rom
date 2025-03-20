@@ -42,7 +42,3 @@ Yêu Cầu:
 - Odin v3.14.4
 - WinRAR hoặc 7-Zip
 - TWRP , file rom, file RMM
-
-Changelog:
-### Version 18/03/2025: Cập nhật nhỏ
-- Remove FRP
