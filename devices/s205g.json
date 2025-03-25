@@ -1,0 +1,28 @@
+{
+    "models": ["SM-G981B", "SM-G981N", "SM-G981U", "SM-G981U1", "SM-G981W"],
+    "name": "Galaxy S20 5G",
+    "codename": "x1s",
+    "releaseDate": "2020-03-06",
+    "image": "https://totomobile.vn/wp-content/uploads/2022/11/Untitled.png",
+    "specs": {
+        "processor": "Snapdragon 865/Exynos 990",
+        "ram": "12GB",
+        "storage": "128GB",
+        "mainScreen": "6.2\" Dynamic AMOLED 2X",
+        "battery": "4000mAh",
+        "camera": {
+            "rear": "12MP Wide + 64MP Telephoto + 12MP Ultra Wide",
+            "front": "10MP"
+        },
+        "specialFeatures": [
+            "5G Support",
+            "120Hz Display",
+            "8K Video Recording",
+            "Space Zoom up to 30X",
+            "IP68 Water Resistance",
+            "Wireless PowerShare",
+            "25W Fast Charging"
+        ]
+    },
+    "supportedROMs": ["OneUI", "LineageOS", "CustomOS"]
+} 
