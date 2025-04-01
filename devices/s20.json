@@ -1,0 +1,27 @@
+{
+    "models": ["SM-G980F", "SM-G980N", "SM-G980U", "SM-G980U1", "SM-G980W"],
+    "name": "Galaxy S20",
+    "codename": "x1s",
+    "releaseDate": "2020-03-06",
+    "image": "https://www.vhv.rs/dpng/d/572-5727288_samsung-galaxy-s20-5g-samsung-galaxy-s20-sprint.png",
+    "specs": {
+        "processor": "Snapdragon 865/Exynos 990",
+        "ram": "8GB",
+        "storage": "128GB",
+        "mainScreen": "6.2\" Dynamic AMOLED 2X",
+        "battery": "4000mAh",
+        "camera": {
+            "rear": "12MP Wide + 64MP Telephoto + 12MP Ultra Wide",
+            "front": "10MP"
+        },
+        "specialFeatures": [
+            "120Hz Display",
+            "8K Video Recording",
+            "Space Zoom up to 30X",
+            "IP68 Water Resistance",
+            "Wireless PowerShare",
+            "25W Fast Charging"
+        ]
+    },
+    "supportedROMs": ["OneUI", "LineageOS", "CustomOS"]
+} 
