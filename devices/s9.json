@@ -1,5 +1,5 @@
 {
-    "model": "SM-G960F",
+    "models": ["SM-G960F", "SM-G960N"],
     "name": "Galaxy S9",
     "codename": "starlte",
     "releaseDate": "2018-03-16",
